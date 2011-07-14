@@ -1,4 +1,5 @@
 sudo apt-get install vim
+sudo apt-get install vim-gnome
 sudo apt-get install apparix
 
 sudo apt-get install tp-smapi-dkms
@@ -11,3 +12,5 @@ sudo apt-get install yakuake
 sudo apt-get install dia
 sudo apt-get install gnome-do
 sudo apt-get install git
+sudo apt-get install exuberant-ctags
+
